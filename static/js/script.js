@@ -4,7 +4,7 @@
  * to display notifications to the user during the data fetching process
  * and after the data has been successfully retrieved.
  
- @ Made by BOTCAHX 
+ @ Made by AETHER
  */
  
  

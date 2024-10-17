@@ -20,7 +20,7 @@
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/BOTCAHX/TikTokPy.git
+   git clone https://github.com/aetherzcode/TikTokPy.git
    cd TikTokPy
    ```
 

@@ -2,7 +2,7 @@
     "name": "TikTokPy",
     "description": "A Flask app to minify HTML, CSS, and JS, and to download TikTok videos without watermark.",
     "stack": "heroku-20",
-    "repository": "https://github.com/BOTCAHX/TikTokPy",
+    "repository": "https://github.com/aetherzcode/TikTokPy",
     "keywords": [
         "flask",
         "minify",
